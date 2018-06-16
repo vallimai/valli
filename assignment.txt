@@ -1,0 +1,9 @@
+code link  https://github.com/CoursesRavindraBabu/TwitterDataAnalysisProject
+Q1: Write a program to fetche tweets matching a query
+     * @param query for which tweets need to be fetched
+     * @return an array of status objects
+
+Hint: Use REST API
+
+Q2. Extend the Streaming API example explained in the class to filter the tweets based on geolocation and userid's.
+
